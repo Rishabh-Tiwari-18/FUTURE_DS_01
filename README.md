@@ -69,7 +69,23 @@ The dataset contains transactional records including:
 
 ## Project Structure
 
-text Business-Sales-Performance-Analytics │ ├── online_retail.csv ├── sales_analysis.py │ ├── outputs │   ├── dashboard.png │   ├── revenue_trend.png │   ├── top_products.png │   ├── top_countries.png │   ├── top_customers.png │   └── monthly_orders.png │ ├── report.txt │ └── README.md 
+```text
+Business-Sales-Performance-Analytics
+│
+├── online_retail.csv
+├── sales_analysis.py
+│
+├── outputs
+│   ├── dashboard.png
+│   ├── revenue_trend.png
+│   ├── top_products.png
+│   ├── top_countries.png
+│   ├── top_customers.png
+│   └── monthly_orders.png
+│
+├── report.txt
+└── README.md
+```
 
 ---
 
@@ -189,8 +205,16 @@ bash python sales_analysis.py
 
 ### Output Generated
 
-text outputs/ │ ├── dashboard.png ├── revenue_trend.png ├── top_products.png ├── top_countries.png ├── top_customers.png └── monthly_orders.png 
-
+```text
+outputs/
+│
+├── dashboard.png
+├── revenue_trend.png
+├── top_products.png
+├── top_countries.png
+├── top_customers.png
+└── monthly_orders.png
+```
 ---
 
 ## Skills Demonstrated
