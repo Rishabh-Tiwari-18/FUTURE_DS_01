@@ -1,7 +1,7 @@
 
-====================================
+
 RETAIL SALES ANALYSIS REPORT
-====================================
+
 
 Total Revenue: £8,887,208.89
 
@@ -11,9 +11,9 @@ Total Customers: 4338
 
 Average Order Value: £479.56
 
-------------------------------------
+
 TOP 5 PRODUCTS
-------------------------------------
+
 
 Description
 PAPER CRAFT , LITTLE BIRDIE           168469.60
@@ -22,9 +22,9 @@ WHITE HANGING HEART T-LIGHT HOLDER    100392.10
 JUMBO BAG RED RETROSPOT                85040.54
 MEDIUM CERAMIC TOP STORAGE JAR         81416.73
 
-------------------------------------
+
 TOP 5 COUNTRIES
-------------------------------------
+
 
 Country
 United Kingdom    7285024.644
@@ -33,9 +33,9 @@ EIRE               265262.460
 Germany            228678.400
 France             208934.310
 
-------------------------------------
+
 BUSINESS INSIGHTS
-------------------------------------
+
 
 1. Focus marketing on top-selling products.
 
